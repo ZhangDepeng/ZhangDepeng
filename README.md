@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-**ZhangDepeng/ZhangDepeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Java developer, I'd like to make some contributions for Java open source and share some thoughts on my blog and github.**
 
-Here are some ideas to get you started:
+### Contact me
 
+- <https://github.com/ZhangDepeng>
+- <https://www.zhangdp.top/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZhangDepeng&show_icons=true&theme=dark)
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
